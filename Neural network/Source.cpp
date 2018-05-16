@@ -492,7 +492,7 @@ int main()
 		cout.setf(ios_base::fixed);
 		cout << net.OutNet()[0] << endl;
 	}
-
+	// привет
 	/*vector<size_t> init = { 2,3,1 };
 	vector<IBaseFunction*> funcs = { new LogisticFunc(),new LogisticFunc(),new LogisticFunc() };
 	Net net;
